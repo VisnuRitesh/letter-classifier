@@ -1,5 +1,5 @@
 # letter-classifier
-Classifier for Tamil letters.
+A classifier for Tamil letters.
 
 Blog: https://visnuritesh.com/2021/02/11/a-letter-classifier/
 
